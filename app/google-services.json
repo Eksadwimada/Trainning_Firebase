@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715600450921",
+    "project_id": "trainning-firebase-c5b5d",
+    "storage_bucket": "trainning-firebase-c5b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715600450921:android:76d235eb6813efc513d9f8",
+        "android_client_info": {
+          "package_name": "com.example.trainningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715600450921-rrpq3inalmm7fr1b6n4tsilbn2hvv70r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4N_oaN4PnmSyQapOkHaRcSGjNVsoZmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715600450921-rrpq3inalmm7fr1b6n4tsilbn2hvv70r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
